@@ -1,3 +1,9 @@
+
+[Wed Feb  1 09:23:37 PST 2012] 
+ * New branch for work to support mod_perl1
+
+== start GitHub repro ==
+
 ------------------------------------------------------------------------
 r118 | trevor | 2010-08-23 08:45:57 -0700 (Mon, 23 Aug 2010) | 1 line
 
